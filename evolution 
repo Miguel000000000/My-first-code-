@@ -1,1 +1,16 @@
-my evolution I am studying two hours a day I learned this and applied it 
+my evolution I am studying two hours a day I learned this and applied it.
+
+var isabel =10;
+var Emanuele =6;
+
+if (isabel >6) {
+
+console.log("mais velha"); 
+}  else{ 
+  console.log("mais nova");
+}
+if (Emanuele <10) {
+  console.log("mais nova")
+}  else{
+  console.log("mais velha")
+}
