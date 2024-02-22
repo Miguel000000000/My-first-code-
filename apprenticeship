@@ -1,0 +1,29 @@
+português 
+
+// Solicita ao usuário que insira seu nome
+var nome = prompt("Digite seu nome:");
+
+// Verifica se o usuário inseriu um nome
+if (nome !== null && nome !== "") {
+  // Exibe uma saudação personalizada com o nome do usuário
+  alert("Olá, " + nome + "! Bem-vindo !");
+} else {
+  // Exibe uma mensagem de saudação genérica se nenhum nome foi inserido
+  alert("Olá! Bem-vindo !");
+}
+
+
+
+english
+
+// Prompts the user to enter their name
+var name = prompt("Enter your name:");
+
+// Checks if the user entered a name
+if (name !== null && name !== "") {
+  // Display a custom greeting with user name 
+alert("hello, " + name + " ! welcome !");
+} else {
+// Display a generic greeting message if no name is entered 
+ alert("hello! welcome!");
+}
